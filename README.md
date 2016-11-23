@@ -1,5 +1,5 @@
 # freecodecamp-solution
-Solution for freecodecamp scripting problems
+Solutions for freecodecamp scripting problems
 
 File structure:
 
